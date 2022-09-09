@@ -1,4 +1,4 @@
-package Model;
+package com.example.SEPTChallengeQ2.Model;
 import java.util.ArrayList;
 import java.util.List;
 
